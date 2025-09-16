@@ -1,5 +1,7 @@
 🛍️ Customer Segmentation on Shopping Trends Dataset
+
 📌 Project Overview
+
 This project focuses on Customer Segmentation using the Customer Shopping Trends Dataset.
 The goal is to identify different groups of customers based on their demographics and purchasing behavior, which can help businesses:
 •	Understand customer needs better
@@ -8,6 +10,7 @@ The goal is to identify different groups of customers based on their demographic
 •	Enhance overall customer experience
 
 ⚙️ Workflow
+
 1.	Data Preprocessing
 o	Handled missing values and duplicates
 o	Encoded categorical features & scaled numerical features
@@ -28,12 +31,14 @@ o	Visualized clusters in 2D
 o	Profiled clusters to derive customer personas
 
 🛠️ Tech Stack
+
 •	Python 🐍
 •	pandas, numpy
 •	matplotlib, seaborn
 •	scikit-learn
 
 📂 Repository Structure
+
 ├── Customer_segmentation.ipynb   # Main Jupyter Notebook
 ├── data/                         # Dataset or link
 ├── images/                       # Plots & visualizations
@@ -41,6 +46,7 @@ o	Profiled clusters to derive customer personas
 └── README.md                     # Documentation
 
 🚀 How to Run
+
 1.	Clone the repository:
 git clone https://github.com/yourusername/customer-segmentation.git
 cd customer-segmentation
@@ -49,7 +55,8 @@ pip install -r requirements.txt
 3.	Open Jupyter Notebook:
 jupyter notebook Customer_segmentation.ipynb
 
-📊 Results & Insights
+Results & Insights
+
 •	Segmented customers into distinct groups
 •	Derived personas such as:
 o	Budget-conscious shoppers
@@ -65,4 +72,4 @@ This project is part of my Data Science learning journey.
 Thanks to the open-source community for tools and resources.
 
 🏷️ Tags
-
+#DataScience #MachineLearning #Clustering #CustomerSegmentation #EDA
