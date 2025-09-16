@@ -12,9 +12,9 @@ The goal is to identify different groups of customers based on their demographic
 ⚙️ Workflow
 
 1.	Data Preprocessing
-o	Handled missing values and duplicates
-o	Encoded categorical features & scaled numerical features
-o	Used ColumnTransformer for efficient transformations
+-	Handled missing values and duplicates
+-	Encoded categorical features & scaled numerical features
+-	Used ColumnTransformer for efficient transformations
 2.	Exploratory Data Analysis (EDA)
 o	Univariate & bivariate analysis of demographics and purchases
 o	Visualized spending patterns with Matplotlib & Seaborn
