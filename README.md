@@ -40,9 +40,11 @@ The goal is to identify different groups of customers based on their demographic
 📂 Repository Structure
 
 ├── Customer_segmentation.ipynb   # Main Jupyter Notebook
+
 ├── data/                         # Dataset or link
+
 ├── images/                       # Plots & visualizations
-├── video_demo.mp4                 # Short demo video (optional)
+
 └── README.md                     # Documentation
 
 🚀 How to Run
