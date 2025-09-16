@@ -1,4 +1,5 @@
 🛍️ Customer Segmentation on Shopping Trends Dataset
+
 📌 Project Overview
 
 This project focuses on Customer Segmentation using the Customer Shopping Trends Dataset.
