@@ -16,19 +16,19 @@ The goal is to identify different groups of customers based on their demographic
 -	Encoded categorical features & scaled numerical features
 -	Used ColumnTransformer for efficient transformations
 2.	Exploratory Data Analysis (EDA)
-o	Univariate & bivariate analysis of demographics and purchases
-o	Visualized spending patterns with Matplotlib & Seaborn
+-	Univariate & bivariate analysis of demographics and purchases
+-	Visualized spending patterns with Matplotlib & Seaborn
 3.	Clustering (KMeans)
-o	Applied KMeans to group customers
-o	Determined optimal clusters using Elbow Method & Silhouette Analysis
+-	Applied KMeans to group customers
+-	Determined optimal clusters using Elbow Method & Silhouette Analysis
 4.	Model Evaluation
-o	Silhouette Score
-o	Davies-Bouldin Index
-o	Calinski-Harabasz Score
+-	Silhouette Score
+-	Davies-Bouldin Index
+-	Calinski-Harabasz Score
 5.	Visualization & Insights
-o	Applied PCA for dimensionality reduction
-o	Visualized clusters in 2D
-o	Profiled clusters to derive customer personas
+-	Applied PCA for dimensionality reduction
+-	Visualized clusters in 2D
+-	Profiled clusters to derive customer personas
 
 🛠️ Tech Stack
 
@@ -59,9 +59,9 @@ Results & Insights
 
 •	Segmented customers into distinct groups
 •	Derived personas such as:
-o	Budget-conscious shoppers
-o	Loyal frequent buyers
-o	High-value customers
+-	Budget-conscious shoppers
+-	Loyal frequent buyers
+-	High-value customers
 These insights can help businesses with targeted marketing and customer retention strategies.
 
 🔗 Dataset
@@ -72,4 +72,5 @@ This project is part of my Data Science learning journey.
 Thanks to the open-source community for tools and resources.
 
 🏷️ Tags
+
 #DataScience #MachineLearning #Clustering #CustomerSegmentation #EDA
